@@ -1,4 +1,4 @@
-# Hey, this is us
+# 見だし１
 
 Yes, 私たちは日本最大の FinTech カンパニーです。
 2012 年に創業して 2013 年から Personal Financial Management サービスである Money Forward ME を提供して、今では 1200 万人のユーザーのお金の可視化をお手伝いしています。
@@ -7,7 +7,7 @@ Yes, 私たちは日本最大の FinTech カンパニーです。
 
 そうやって社会を少しでもよくすることに貢献できていることに誇りを持っています。
 
-## An interconnected community
+## コミュニティ作り
 
 社会を前に進めること、お金の悩みを解決することは簡単なことではありませんし、決して私たちだけで成し遂げられることではありません。
 コミュニティーを作り相互協力しながら社会をより良くしていくのは、今日の社会作りの基本です。
@@ -18,10 +18,9 @@ Co-creation is heart of Money Forward and fundamental for making our world a bet
 - 100 を超える商工会議所と提携しています
 - 30 超の金融機関にサービスを提供しています
 
-Now that we are talking about the important things ☝️, are you contributing to making the world a better place?
-Yes? Okay, you rock! 🪨 If not, join Money Forward and let's make the world better together!
+Feeling interseted? Join Money Forward and let's make the world better together!
 
-## Contributing to the ecosystem
+## OSS への貢献
 
 私たちは、社内のエンジニアの OSS への貢献を推奨しています。
 マネーフォワードではテックコミュニティに対するさまざまなコントリビューションを応援しています。
