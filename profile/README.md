@@ -1,28 +1,66 @@
-# Hey, this is us (wip)
+## This is us 🎉
 
-Yes, 私たちは日本最大の FinTech カンパニーです。
-2012 年に創業して 2013 年から Personal Financial Management サービスである Money Forward ME を提供して、今では 1200 万人のユーザーのお金の可視化をお手伝いしています。
+We are Money Forward, **the largest fintech company in Japan**.
 
-私たちは多くの人や会社や社会のお金の悩みを解決して、全ての人々に良い人生を送ってもらいたいと願っています。
+Founded on **May 18th, 2012** we launched our personal financial management product _Money Forward ME_ in **2013**, and are now helping our user base of **over 12 million** see and understand their money situation.
 
-そうやって社会を少しでもよくすることに貢献できていることに誇りを持っています。
+At our core, we strive for the well-being of everyone in society by solving concerns with money faced by individuals, businesses, and society as a whole.
 
-## コミュニティ作り
+Though no easy feat, any contribution we can provide to society in this endeavour we do so with pride. ✨
 
-社会を前に進めること、お金の悩みを解決することは簡単なことではありませんし、決して私たちだけで成し遂げられることではありません。
-コミュニティーを作り相互協力しながら社会をより良くしていくのは、今日の社会作りの基本です。
-Co-creation is heart of Money Forward and fundamental for making our world a better place today. See for yourself:
+Interested?  Join Money Forward and let's work on this together! 🌏
 
-- 私たちは 900 を超える金融機関と API などの契約(スクレイピング契約を含む)を締結してシステム連携しています。
-- 4300 超の会計・社労士事務所が公認メンバーとして私たちのコミュニティーに参加しています
-- 100 を超える商工会議所と提携しています
-- 30 超の金融機関にサービスを提供しています
 
-Feeling interseted?  Join Money Forward and let's make the world better together!
+### 🗺️ Strength in numbers
 
-## OSS への貢献
+We do not believe we can achieve our goals alone.
 
-私たちは、社内のエンジニアの OSS への貢献を推奨しています。
-マネーフォワードではテックコミュニティに対するさまざまなコントリビューションを応援しています。
-スポンサードだけではなく、OSS に対するコミットや Issue の報告、その他テックコミュニティの運営などできる範囲でのコントリビューションを実施しています。
-今後もテックコミュニティや OSS への貢献を継続していきます。
+We believe working with industry partners and communities is essential.  Collaboration and community building are at the heart of Money Forward.
+
+Our world in numbers:
+
+* Contractual arrangements with 1,000 financial institutions for API and other service use.
+
+* Accounting firms and labour law firms participating in our community exceed 4,600 accredited members.
+
+* Networking with 100 chambers of commerce.
+
+* Supporting over 40 financial institutions with our services.
+
+
+### 💾 Our gratitude to open source and the tech community
+
+Our engineers are encouraged to support open source projects.
+
+At Money Forward, we not only support the tech community through monetary sponsorships and organizing of community events, our engineers also contribute directly to open source projects by creating pull requests and reporting issues.
+
+We will continue contributing in the ways we can as part of our core values.
+
+
+## Money Forward *"Moving life forward"*
+
+Our core values?  Here they are. ❤️
+
+### Mission - _Our unrelenting commitment to society_
+
+"Money" can be nothing more than a tool for living.  However, money is also essential for looking after ourselves and families, as well as for realizing our dreams.  Money Forward's mission is to contribute to building a better society by providing services that enable users to "see money in a positive light and broaden the range of opportunities" thereby significantly enriching lives.
+
+### Vision - _The path toward fulfilling our mission_
+
+#### "Becoming a financial platform for all"
+
+We aim to solve financial issues of all individuals and businesses through building an open and fair financial platform and providing essential services.
+
+### Values - _Our social code of conduct_
+
+* **User Focus**
+
+    We will retain a user-oriented stance at all times, understanding users’substantive issues and delivering solutions that exceed their expectations.
+
+* **Technology Driven**
+
+    We believe technology to be a major driver in changing the world. We will therefore pursue technology and provide society with deriving services, and thus unceasingly driving innovation.
+
+* **Fairness**
+
+    We pledge to be fair and open to all stakeholders including our users, employees, shareholders and society as a whole.
