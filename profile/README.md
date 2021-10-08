@@ -38,7 +38,7 @@ At Money Forward, we not only support the tech community through monetary sponso
 We will continue contributing in the ways we can as part of our core values.
 
 
-## Money Forward *"Moving life forward"*
+## "Money Forward. Move your life forward."
 
 Our core values?  Here they are. ❤️
 
@@ -48,7 +48,7 @@ Our core values?  Here they are. ❤️
 
 ### Vision - _The path toward fulfilling our mission_
 
-#### "Becoming a financial platform for all"
+#### "Becoming the financial platform for all"
 
 We aim to solve financial issues of all individuals and businesses through building an open and fair financial platform and providing essential services.
 
