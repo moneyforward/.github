@@ -1,4 +1,5 @@
 ## This is us 🎉
+![Money Forward, Inc. Banner](/images/moneyforward_banner.jpg)
 
 We are Money Forward, **the largest fintech company in Japan**.
 
@@ -34,7 +35,7 @@ At Money Forward, we not only support the tech community through monetary sponso
 
 We will continue contributing in the ways we can as part of our core values.
 
-## Money Forward _"Moving life forward"_
+## "Money Forward. Move your life forward."
 
 Our core values? Here they are. ❤️
 
@@ -44,7 +45,7 @@ Our core values? Here they are. ❤️
 
 ### Vision - _The path toward fulfilling our mission_
 
-#### "Becoming a financial platform for all"
+#### "Becoming the financial platform for all"
 
 We aim to solve financial issues of all individuals and businesses through building an open and fair financial platform and providing essential services.
 
