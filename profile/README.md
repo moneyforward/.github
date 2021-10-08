@@ -55,7 +55,7 @@ We aim to solve financial issues of all individuals and businesses through build
 
 * **User Focus**
 
-    We will retain a user-oriented stance at all times, understanding users’substantive issues and delivering solutions that exceed their expectations.
+    We will retain a user-oriented stance at all times, understanding users' substantive issues and delivering solutions that exceed their expectations.
 
 * **Technology Driven**
 
