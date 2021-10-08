@@ -8,25 +8,23 @@ At our core, we strive for the well-being of everyone in society by solving conc
 
 Though no easy feat, any contribution we can provide to society in this endeavour we do so with pride. ✨
 
-Interested?  Join Money Forward and let's work on this together! 🌏
-
+Interested? Join Money Forward and let's work on this together! 🌏
 
 ### 🗺️ Strength in numbers
 
 We do not believe we can achieve our goals alone.
 
-We believe working with industry partners and communities is essential.  Collaboration and community building are at the heart of Money Forward.
+We believe working with industry partners and communities is essential. Collaboration and community building are at the heart of Money Forward.
 
 Our world in numbers:
 
-* Contractual arrangements with 1,000 financial institutions for API and other service use.
+- Contractual arrangements with 1,000 financial institutions for API and other service use.
 
-* Accounting firms and labour law firms participating in our community exceed 4,600 accredited members.
+- Accounting firms and labour law firms participating in our community exceed 4,600 accredited members.
 
-* Networking with 100 chambers of commerce.
+- Networking with 100 chambers of commerce.
 
-* Supporting over 40 financial institutions with our services.
-
+- Supporting over 40 financial institutions with our services.
 
 ### 💾 Our gratitude to open source and the tech community
 
@@ -36,14 +34,13 @@ At Money Forward, we not only support the tech community through monetary sponso
 
 We will continue contributing in the ways we can as part of our core values.
 
+## Money Forward _"Moving life forward"_
 
-## Money Forward *"Moving life forward"*
-
-Our core values?  Here they are. ❤️
+Our core values? Here they are. ❤️
 
 ### Mission - _Our unrelenting commitment to society_
 
-"Money" can be nothing more than a tool for living.  However, money is also essential for looking after ourselves and families, as well as for realizing our dreams.  Money Forward's mission is to contribute to building a better society by providing services that enable users to "see money in a positive light and broaden the range of opportunities" thereby significantly enriching lives.
+"Money" can be nothing more than a tool for living. However, money is also essential for looking after ourselves and families, as well as for realizing our dreams. Money Forward's mission is to contribute to building a better society by providing services that enable users to "see money in a positive light and broaden the range of opportunities" thereby significantly enriching lives.
 
 ### Vision - _The path toward fulfilling our mission_
 
@@ -53,14 +50,14 @@ We aim to solve financial issues of all individuals and businesses through build
 
 ### Values - _Our social code of conduct_
 
-* **User Focus**
+- **User Focus**
 
-    We will retain a user-oriented stance at all times, understanding users’substantive issues and delivering solutions that exceed their expectations.
+  We will retain a user-oriented stance at all times, understanding users’substantive issues and delivering solutions that exceed their expectations.
 
-* **Technology Driven**
+- **Technology Driven**
 
-    We believe technology to be a major driver in changing the world. We will therefore pursue technology and provide society with deriving services, and thus unceasingly driving innovation.
+  We believe technology to be a major driver in changing the world. We will therefore pursue technology and provide society with deriving services, and thus unceasingly driving innovation.
 
-* **Fairness**
+- **Fairness**
 
-    We pledge to be fair and open to all stakeholders including our users, employees, shareholders and society as a whole.
+  We pledge to be fair and open to all stakeholders including our users, employees, shareholders and society as a whole.
