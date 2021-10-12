@@ -9,14 +9,13 @@ At our core, we strive for the well-being of everyone in society by solving conc
 
 Though no easy feat, any contribution we can provide to society in this endeavour we do so with pride. ✨
 
-Interested?  Join Money Forward and let's work on this together! 🌏
-
+Interested? Join Money Forward and let's work on this together! 🌏
 
 ### 🗺️ Strength in numbers
 
 We do not believe we can achieve our goals alone.
 
-We believe working with industry partners and communities is essential.  Collaboration and community building are at the heart of Money Forward.
+We believe working with industry partners and communities is essential. Collaboration and community building are at the heart of Money Forward.
 
 Our world in numbers:
 
@@ -28,7 +27,6 @@ Our world in numbers:
 
 * Supporting over 40 financial institutions with our services.
 
-
 ### 💾 Our gratitude to open source and the tech community
 
 Our engineers are encouraged to support open source projects.
@@ -37,14 +35,13 @@ At Money Forward, we not only support the tech community through monetary sponso
 
 We will continue contributing in the ways we can as part of our core values.
 
-
 ## "Money Forward. Move your life forward."
 
-Our core values?  Here they are. ❤️
+Our core values? Here they are. ❤️
 
 ### Mission - _Our unrelenting commitment to society_
 
-"Money" can be nothing more than a tool for living.  However, money is also essential for looking after ourselves and families, as well as for realizing our dreams.  Money Forward's mission is to contribute to building a better society by providing services that enable users to "see money in a positive light and broaden the range of opportunities" thereby significantly enriching lives.
+"Money" can be nothing more than a tool for living. However, money is also essential for looking after ourselves and families, as well as for realizing our dreams. Money Forward's mission is to contribute to building a better society by providing services that enable users to "see money in a positive light and broaden the range of opportunities" thereby significantly enriching lives.
 
 ### Vision - _The path toward fulfilling our mission_
 
@@ -56,12 +53,12 @@ We aim to solve financial issues of all individuals and businesses through build
 
 * **User Focus**
 
-    We will retain a user-oriented stance at all times, understanding users' substantive issues and delivering solutions that exceed their expectations.
+  We will retain a user-oriented stance at all times, understanding users' substantive issues and delivering solutions that exceed their expectations.
 
 * **Technology Driven**
 
-    We believe technology to be a major driver in changing the world. We will therefore pursue technology and provide society with deriving services, and thus unceasingly driving innovation.
+  We believe technology to be a major driver in changing the world. We will therefore pursue technology and provide society with deriving services, and thus unceasingly driving innovation.
 
 * **Fairness**
 
-    We pledge to be fair and open to all stakeholders including our users, employees, shareholders and society as a whole.
+  We pledge to be fair and open to all stakeholders including our users, employees, shareholders and society as a whole.
