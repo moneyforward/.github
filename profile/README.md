@@ -7,7 +7,7 @@ Founded on **May 18th, 2012** we launched our personal financial management prod
 
 At our core, we strive for the well-being of everyone in society by solving concerns with money faced by individuals, businesses, and society as a whole.
 
-Though no easy feat, any contribution we can provide to society in this endeavour we do so with pride. ✨
+Although no easy feat, any contribution we can provide to society in this endeavour we do so with pride. ✨
 
 Interested? Join Money Forward and let's work on this together! 🌏
 
