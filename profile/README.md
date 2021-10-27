@@ -31,7 +31,7 @@ Money Forward by the numbers:
 
 Our engineers are encouraged to support open source projects.
 
-At Money Forward, we not only support the tech community through monetary sponsorships and organizing of community events, our engineers also contribute directly to open source projects by creating pull requests and reporting issues.
+Money Forward supports tech communities through monetary sponsorships and organizing community events. Engineers also contribute to open source projects by creating pull requests and reporting issues.
 
 We will continue contributing in the ways we can as part of our core values.
 
