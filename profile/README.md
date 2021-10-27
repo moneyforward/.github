@@ -15,9 +15,7 @@ Interested? Join Money Forward and let's work on this together! 🌏
 
 ### 🗺️ Our Strength
 
-We do not believe we can achieve our goals alone.
-
-We believe working with industry partners and communities is essential. Collaboration and community building are at the heart of Money Forward.
+We believe working with industry partners and communities is essential to achieve our goals. Collaboration and community building are at the heart of Money Forward.
 
 Money Forward by the numbers:
 
