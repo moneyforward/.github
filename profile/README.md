@@ -1,11 +1,9 @@
 ## About Us 🎉
 ![Money Forward, Inc. Banner](/images/moneyforward_banner.jpg)
 
-We are Money Forward, **one of the largest fintech company in Japan**.
+We are Money Forward, **one of the largest fintech companies in Japan**.
 
-Founded on **May 18th, 2012**  
-Launched our first product _Money Forward ME_, a personal household accounting app, in **2013**  
-Now we provide comprehensive financial services to **over 12 million** (and ever-growing) users in **2021**  
+Founded on **May 18th, 2012** we launched our personal financial management product _Money Forward ME_ in **2013**. As of today, we provide comprehensive financial services to **over 12 million** (and ever-growing) users in **2021**.
 
 At our core, we strive for the well-being of everyone in society by solving concerns with money faced by individuals, businesses, and society as a whole.
 
@@ -13,7 +11,7 @@ Although no easy feat, any contribution we can provide to society in this endeav
 
 Interested? Join Money Forward and let's work on this together! 🌏
 
-### 🗺️ Our Strength
+### 🗺️ Our Strengts
 
 We believe working with industry partners and communities is essential to achieve our goals. Collaboration and community building are at the heart of Money Forward.
 
@@ -35,7 +33,7 @@ Money Forward supports tech communities through monetary sponsorships and organi
 
 We will continue contributing in the ways we can as part of our core values.
 
-## "Money Forward. Move Your Life Forward."
+## "Money Forward. Move your life forward."
 
 Our core values? Here they are. ❤️
 
