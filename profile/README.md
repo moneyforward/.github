@@ -3,7 +3,9 @@
 
 We are Money Forward, **one of the largest fintech company in Japan**.
 
-Founded on **May 18th, 2012** we launched our personal financial management product _Money Forward ME_ in **2013**, and are now helping our user base of **over 12 million** see and understand their money situation.
+Founded on **May 18th, 2012**  
+Launched our first product _Money Forward ME_, a personal household accounting app, in **2013**  
+Now we provide comprehensive financial services to **over 12 million** (and ever-growing) users in **2021**  
 
 At our core, we strive for the well-being of everyone in society by solving concerns with money faced by individuals, businesses, and society as a whole.
 
