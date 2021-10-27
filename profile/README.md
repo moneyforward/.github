@@ -17,7 +17,7 @@ We do not believe we can achieve our goals alone.
 
 We believe working with industry partners and communities is essential. Collaboration and community building are at the heart of Money Forward.
 
-Our world in numbers:
+Money Forward by the numbers:
 
 * Contractual arrangements with 1,000 financial institutions for API and other service use.
 
