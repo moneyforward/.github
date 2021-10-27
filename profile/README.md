@@ -1,4 +1,4 @@
-## About us 🎉
+## About Us 🎉
 ![Money Forward, Inc. Banner](/images/moneyforward_banner.jpg)
 
 We are Money Forward, **one of the largest fintech company in Japan**.
