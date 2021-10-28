@@ -11,7 +11,7 @@ Although no easy feat, any contribution we can provide to society in this endeav
 
 Interested? Join Money Forward and let's work on this together! 🌏
 
-### 🗺️ Our Strengts
+### 🗺️ Our Strengths
 
 We believe working with industry partners and communities is essential to achieve our goals. Collaboration and community building are at the heart of Money Forward.
 
