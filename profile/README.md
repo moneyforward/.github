@@ -41,7 +41,7 @@ Our core values? Here they are. ❤️
 
 ### Mission - _Our unrelenting commitment to society_
 
-"Money" can be nothing more than a tool for living. However, money is also essential for looking after ourselves and families, as well as for realizing our dreams. Money Forward's mission is to contribute to building a better society by providing services that enable users to "see money in a positive light and broaden the range of opportunities" thereby significantly enriching lives.
+'Money' may be nothing more than a tool for living. However, money is also essential for guarding ourselves and our families, as well as for realizing our dreams. We contribute to building a better society by providing services that enable users to "see money in a positive light and broaden their range of opportunities," thereby significantly enriching their lives.
 
 ### Vision - _The path toward fulfilling our mission_
 
@@ -49,16 +49,16 @@ Our core values? Here they are. ❤️
 
 We aim to solve financial issues of all individuals and businesses through building an open and fair financial platform and providing essential services.
 
-### Values - _Our social code of conduct_
+### Values - _Our Values are the guiding principles that allow us to achieve our Mission._
 
 * **User Focus**
 
-  We will retain a user-oriented stance at all times, understanding users' substantive issues and delivering solutions that exceed their expectations.
+  We always keep our users foremost in our minds, no matter the constraints. We seek to understand their core challenges and deliver value that exceeds both user expectation and imagination.
 
-* **Technology Driven**
+* **Tech & Design**
 
-  We believe technology to be a major driver in changing the world. We will therefore pursue technology and provide society with deriving services, and thus unceasingly driving innovation.
+  We believe that technology and design can truly make a difference in the world. By leveraging the best of both, we can bring new value to our users and move society forward.
 
 * **Fairness**
 
-  We pledge to be fair and open to all stakeholders including our users, employees, shareholders and society as a whole.
+  We vow to be fair, honest and open-minded in every interaction with our stakeholders. This includes our users, employees, shareholders, and society as a whole.
